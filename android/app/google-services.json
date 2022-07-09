@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60283685776",
+    "project_id": "blazechat-b4c99",
+    "storage_bucket": "blazechat-b4c99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60283685776:android:f3c21bbf3e032c76ff8115",
+        "android_client_info": {
+          "package_name": "com.bibhudutta.blazechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60283685776-m6rf9apm0c2536pmrjt1pl72hrksl45t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR_KEY_GOES HERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60283685776-m6rf9apm0c2536pmrjt1pl72hrksl45t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
